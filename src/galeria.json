@@ -1,0 +1,154 @@
+{
+ "carrossel": [
+  {
+   "n": 1,
+   "nome": "Prateleira Flutuante Simples",
+   "cat": "Prateleiras, nichos e suportes",
+   "nivel": "Iniciante"
+  },
+  {
+   "n": 4,
+   "nome": "Nicho Hexagonal",
+   "cat": "Prateleiras, nichos e suportes",
+   "nivel": "Intermediário"
+  },
+  {
+   "n": 21,
+   "nome": "Suporte para Violão",
+   "cat": "Prateleiras, nichos e suportes",
+   "nivel": "Intermediário"
+  },
+  {
+   "n": 45,
+   "nome": "Prateleira Modular em Cubos",
+   "cat": "Prateleiras, nichos e suportes",
+   "nivel": "Intermediário"
+  },
+  {
+   "n": 51,
+   "nome": "Bandeja com Alças",
+   "cat": "Decoração e acessórios para casa",
+   "nivel": "Iniciante"
+  },
+  {
+   "n": 58,
+   "nome": "Relógio de Parede de Madeira",
+   "cat": "Decoração e acessórios para casa",
+   "nivel": "Intermediário"
+  },
+  {
+   "n": 60,
+   "nome": "Painel Ripado Decorativo",
+   "cat": "Decoração e acessórios para casa",
+   "nivel": "Intermediário"
+  },
+  {
+   "n": 152,
+   "nome": "Banco de Varanda",
+   "cat": "Jardim, varanda e plantas",
+   "nivel": "Intermediário"
+  },
+  {
+   "n": 158,
+   "nome": "Floreira para Sacada",
+   "cat": "Jardim, varanda e plantas",
+   "nivel": "Iniciante"
+  },
+  {
+   "n": 161,
+   "nome": "Banco com Floreiras nas Laterais",
+   "cat": "Jardim, varanda e plantas",
+   "nivel": "Avançado"
+  }
+ ],
+ "projetos": [
+  {
+   "n": 1,
+   "nome": "Prateleira Flutuante Simples",
+   "nivel": "Iniciante"
+  },
+  {
+   "n": 4,
+   "nome": "Nicho Hexagonal",
+   "nivel": "Intermediário"
+  },
+  {
+   "n": 7,
+   "nome": "Prateleira para Banheiro com Barra",
+   "nivel": "Iniciante"
+  },
+  {
+   "n": 10,
+   "nome": "Prateleira Escada de Parede",
+   "nivel": "Intermediário"
+  },
+  {
+   "n": 13,
+   "nome": "Prateleira com Corda",
+   "nivel": "Iniciante"
+  },
+  {
+   "n": 16,
+   "nome": "Nicho para Lavanderia",
+   "nivel": "Iniciante"
+  },
+  {
+   "n": 19,
+   "nome": "Suporte para Toalhas",
+   "nivel": "Iniciante"
+  },
+  {
+   "n": 22,
+   "nome": "Prateleira de Canto Triangular",
+   "nivel": "Iniciante"
+  },
+  {
+   "n": 35,
+   "nome": "Suporte para Chaves com Prateleira",
+   "nivel": "Iniciante"
+  },
+  {
+   "n": 45,
+   "nome": "Prateleira Modular em Cubos",
+   "nivel": "Intermediário"
+  },
+  {
+   "n": 48,
+   "nome": "Prateleira para Fotos e Quadros",
+   "nivel": "Iniciante"
+  },
+  {
+   "n": 51,
+   "nome": "Bandeja com Alças",
+   "nivel": "Iniciante"
+  },
+  {
+   "n": 55,
+   "nome": "Luminária de Mesa em Madeira",
+   "nivel": "Intermediário"
+  },
+  {
+   "n": 58,
+   "nome": "Relógio de Parede de Madeira",
+   "nivel": "Intermediário"
+  },
+  {
+   "n": 61,
+   "nome": "Cabideiro de Parede com Ganchos",
+   "nivel": "Iniciante"
+  },
+  {
+   "n": 65,
+   "nome": "Caixa Decorativa com Tampa",
+   "nivel": "Intermediário"
+  }
+ ],
+ "capas": {
+  "principal": true,
+  "bonus1": true,
+  "bonus2": true,
+  "bonus3": true,
+  "bonus4": true,
+  "bonus5": true
+ }
+}
